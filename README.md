@@ -67,9 +67,8 @@ amplifies what sharing has already exposed.
 
 Python 3.10+ (tested on 3.13), NumPy, NetworkX, and SciPy (used by one analysis script). Pinned in `requirements.txt`.
 
-## License & citation
+## Citation
 
-MIT (see `LICENSE`).
 
 ```bibtex
 @mastersthesis{pineda2026organizational,
