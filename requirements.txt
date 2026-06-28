@@ -1,0 +1,12 @@
+# Dependencies for reproducing the committed results.
+# verify_all_numbers.py reproduces all 55 committed paper numbers on both
+# NumPy 1.26 and 2.x; the np.random.default_rng (PCG64) stream is stable across
+# those versions, so results are identical. Very old/new NetworkX may drift
+# slightly on topology-dependent runs (H4 / exp02).
+
+numpy>=1.26
+networkx>=3.0,<4.0
+scipy>=1.10            # used by exp01/analysis.py for the Cohen's d t-test
+matplotlib>=3.6        # used by figures/make_paper_figures.py (optional; figure regeneration only)
+
+# Python 3.10+ required. Developed and tested on 3.13 with NumPy 2.x.

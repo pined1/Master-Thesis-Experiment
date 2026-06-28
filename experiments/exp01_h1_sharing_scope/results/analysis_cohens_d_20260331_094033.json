@@ -1,0 +1,32 @@
+{
+  "NONE vs GLOBAL (main finding)": {
+    "cohens_d": 11.51315048823098,
+    "p_value": 3.5407728810199426e-154,
+    "magnitude": "LARGE"
+  },
+  "NONE vs NEIGHBOR": {
+    "cohens_d": 7.718555933399638,
+    "p_value": 2.752161515043149e-121,
+    "magnitude": "LARGE"
+  },
+  "NONE vs LOCAL": {
+    "cohens_d": 3.9132668878173744,
+    "p_value": 5.791822987113788e-70,
+    "magnitude": "LARGE"
+  },
+  "LOCAL vs NEIGHBOR": {
+    "cohens_d": 4.548355304172542,
+    "p_value": 1.502874813840517e-80,
+    "magnitude": "LARGE"
+  },
+  "LOCAL vs GLOBAL": {
+    "cohens_d": 9.25706321921776,
+    "p_value": 4.271386502740673e-136,
+    "magnitude": "LARGE"
+  },
+  "NEIGHBOR vs GLOBAL": {
+    "cohens_d": 4.918781379880727,
+    "p_value": 2.833651754178256e-86,
+    "magnitude": "LARGE"
+  }
+}

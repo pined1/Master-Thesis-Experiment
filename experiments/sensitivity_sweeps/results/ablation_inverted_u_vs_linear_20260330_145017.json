@@ -1,0 +1,358 @@
+{
+  "linear_false": {
+    "NONE": {
+      "total_incidents": {
+        "mean": 484.33,
+        "std": 22.817561219376625,
+        "ci_lower": 479.85775800100214,
+        "ci_upper": 488.80224199899783,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9828814316861084,
+        "std": 0.0008433544737898052,
+        "ci_lower": 0.9827161342092456,
+        "ci_upper": 0.9830467291629712,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      }
+    },
+    "LOCAL": {
+      "total_incidents": {
+        "mean": 406.42,
+        "std": 16.25372572673724,
+        "ci_lower": 403.2342697575595,
+        "ci_upper": 409.60573024244053,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9866497270412475,
+        "std": 0.0005608175814668015,
+        "ci_lower": 0.9865398067952801,
+        "ci_upper": 0.986759647287215,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.5547245829537633,
+        "std": 0.020160776837832125,
+        "ci_lower": 0.5507730706935482,
+        "ci_upper": 0.5586760952139783,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.5545285616531966,
+        "std": 0.019475159170618532,
+        "ci_lower": 0.5507114304557554,
+        "ci_upper": 0.5583456928506378,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.5550731973583565,
+        "std": 0.021320641651363076,
+        "ci_lower": 0.5508943515946894,
+        "ci_upper": 0.5592520431220236,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      }
+    },
+    "NEIGHBOR": {
+      "total_incidents": {
+        "mean": 335.96,
+        "std": 14.525095524642857,
+        "ci_lower": 333.11308127716995,
+        "ci_upper": 338.80691872283,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9897349678252414,
+        "std": 0.0004693831638631849,
+        "ci_lower": 0.9896429687251243,
+        "ci_upper": 0.9898269669253585,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.8899004531612575,
+        "std": 0.019732712324088686,
+        "ci_lower": 0.8860328415457361,
+        "ci_upper": 0.893768064776779,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.8906297898719293,
+        "std": 0.020335136243763565,
+        "ci_lower": 0.8866441031681517,
+        "ci_upper": 0.894615476575707,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.8903206417684357,
+        "std": 0.020263058651600822,
+        "ci_lower": 0.886349082272722,
+        "ci_upper": 0.8942922012641494,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.14028278615755163,
+        "std": 0.004603257974239958,
+        "ci_lower": 0.1393805475946006,
+        "ci_upper": 0.14118502472050265,
+        "n": 100
+      }
+    },
+    "GLOBAL": {
+      "total_incidents": {
+        "mean": 265.63,
+        "std": 13.92167734147003,
+        "ci_lower": 262.9013512410719,
+        "ci_upper": 268.3586487589281,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9925788121232558,
+        "std": 0.00041538696283228505,
+        "ci_lower": 0.9924973962785407,
+        "ci_upper": 0.9926602279679709,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.9920640682647671,
+        "std": 0.002990521745867586,
+        "ci_lower": 0.9914779260025771,
+        "ci_upper": 0.9926502105269571,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.9920629586344742,
+        "std": 0.002990890097430503,
+        "ci_lower": 0.9914767441753779,
+        "ci_upper": 0.9926491730935706,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.9920649700453079,
+        "std": 0.002988994973145005,
+        "ci_lower": 0.9914791270305715,
+        "ci_upper": 0.9926508130600443,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.89465275336215,
+        "std": 0.005344524629018756,
+        "ci_lower": 0.8936052265348623,
+        "ci_upper": 0.8957002801894377,
+        "n": 100
+      }
+    }
+  },
+  "inverted_u_true": {
+    "NONE": {
+      "total_incidents": {
+        "mean": 484.33,
+        "std": 22.817561219376625,
+        "ci_lower": 479.85775800100214,
+        "ci_upper": 488.80224199899783,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9828814316861084,
+        "std": 0.0008433544737898052,
+        "ci_lower": 0.9827161342092456,
+        "ci_upper": 0.9830467291629712,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      }
+    },
+    "LOCAL": {
+      "total_incidents": {
+        "mean": 406.42,
+        "std": 16.25372572673724,
+        "ci_lower": 403.2342697575595,
+        "ci_upper": 409.60573024244053,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9866497270412475,
+        "std": 0.0005608175814668015,
+        "ci_lower": 0.9865398067952801,
+        "ci_upper": 0.986759647287215,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.5547245829537633,
+        "std": 0.020160776837832125,
+        "ci_lower": 0.5507730706935482,
+        "ci_upper": 0.5586760952139783,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.5545285616531966,
+        "std": 0.019475159170618532,
+        "ci_lower": 0.5507114304557554,
+        "ci_upper": 0.5583456928506378,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.5550731973583565,
+        "std": 0.021320641651363076,
+        "ci_lower": 0.5508943515946894,
+        "ci_upper": 0.5592520431220236,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.0,
+        "std": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 100
+      }
+    },
+    "NEIGHBOR": {
+      "total_incidents": {
+        "mean": 335.25,
+        "std": 14.89387457983986,
+        "ci_lower": 332.3308005823514,
+        "ci_upper": 338.1691994176486,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9897330726773299,
+        "std": 0.0005037338691795102,
+        "ci_lower": 0.9896343408389707,
+        "ci_upper": 0.9898318045156891,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.8816741220929214,
+        "std": 0.02076072174288743,
+        "ci_lower": 0.8776050206313155,
+        "ci_upper": 0.8857432235545273,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.88038558150822,
+        "std": 0.021272546204220078,
+        "ci_lower": 0.8762161624521928,
+        "ci_upper": 0.8845550005642472,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.8810451736676346,
+        "std": 0.021751929648197124,
+        "ci_lower": 0.876781795456588,
+        "ci_upper": 0.8853085518786812,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.13382501407675781,
+        "std": 0.004804877361701266,
+        "ci_lower": 0.13288325811386437,
+        "ci_upper": 0.13476677003965126,
+        "n": 100
+      }
+    },
+    "GLOBAL": {
+      "total_incidents": {
+        "mean": 270.17,
+        "std": 14.940585664558133,
+        "ci_lower": 267.2416452097466,
+        "ci_upper": 273.09835479025344,
+        "n": 100
+      },
+      "overall_availability": {
+        "mean": 0.9923666824310825,
+        "std": 0.0004603733140452742,
+        "ci_lower": 0.9922764492615296,
+        "ci_upper": 0.9924569156006354,
+        "n": 100
+      },
+      "final_prevention_knowledge": {
+        "mean": 0.9921345721966682,
+        "std": 0.001574420560251016,
+        "ci_lower": 0.991825985766859,
+        "ci_upper": 0.9924431586264775,
+        "n": 100
+      },
+      "final_detection_knowledge": {
+        "mean": 0.9921342736597731,
+        "std": 0.0015743087640461009,
+        "ci_lower": 0.9918257091420201,
+        "ci_upper": 0.9924428381775262,
+        "n": 100
+      },
+      "final_mitigation_knowledge": {
+        "mean": 0.9921327407446577,
+        "std": 0.0015770061388326216,
+        "ci_lower": 0.9918236475414466,
+        "ci_upper": 0.9924418339478689,
+        "n": 100
+      },
+      "transformation_rate": {
+        "mean": 0.8283148274562134,
+        "std": 0.011875768392967724,
+        "ci_lower": 0.8259871768511917,
+        "ci_upper": 0.8306424780612351,
+        "n": 100
+      }
+    }
+  }
+}
