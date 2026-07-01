@@ -1,9 +1,17 @@
 # Experiments
 
 The paper reports four hypotheses (H1–H4) plus the H1×H3 cross-sweep, two
-ablations, and robustness/calibration sweeps — about 12,000 simulation runs.
-Each folder below is one of those, with its own README, runnable script(s), and
-committed `results/`.
+ablations, and robustness/calibration sweeps. Each folder below is one of those,
+with its own README, runnable script(s), and committed `results/`.
+
+**On run counts.** The paper's headline figure is **~12,000 runs** — the runs
+behind its reported tables: 6,900 core (H1/H2/H3/H4 + cross-sweep) + 800 ablation
+arms + ~4,300 sensitivity/robustness (see the paper's `tab:methodology-summary`).
+The committed `results/` here total **~16,000**, because they also include the
+topology sub-sweeps (exp02 WS-k / BA-m), the ablation *baseline* arms (each
+ablation folder runs 800 — the 400-run ablation arm plus a 400-run exp01 baseline
+for side-by-side comparison; only the ablation arm counts toward the ~12,000), and
+the calibration pilots. Both figures are correct; they count different things.
 
 **Naming.** Numbered folders (`exp01`, `exp02`, …) match the paper's own
 experiment labels. The cross-sweep, pilots, and sensitivity sweeps keep
